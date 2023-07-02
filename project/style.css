@@ -1,0 +1,10 @@
+.abbas{
+    margin-top: 3px;
+    margin-left: 20px;
+    padding: 4px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
